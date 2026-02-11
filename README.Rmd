@@ -25,10 +25,12 @@ This is a line from Rstudio
 
 ### step 12.1
 - Praneet's note: No problems, already had git and github setup and know how to use git operations
+- Grace's note: Had to download Github to my computer and had some issues with that. 
 
 
 ### step 12.2
 - Praneet's note: Repository was given to us
+- Grace's note: Repository was already giveb to us
 
 
 ### step 12.3
@@ -37,14 +39,16 @@ This is a line from Rstudio
 
 ### step 12.4
 - Praneet's note: Had no problems making local changes and commiting
-
+- Grace's note: Had a lot of questions about cloning since this was my first time using Github. I feel like I have a better understanding now. 
 
 ### step 12.5
 - Praneet's note: Had no problems pushing onto Github
+- Grace's note: Had no real problems pushing into Github
 
 
 ### step 12.6
 - Praneet's note: The local changes and commits were synced with the Github remote
+- Grace's note: The local changed were sycned with Github
 
 
 
