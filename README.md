@@ -17,4 +17,31 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-Commit from RStudio - Praneet
+This is a line from Rstudio This is a line from RStudio This is a line
+from RStudio This is a line from Rstudio
+
+### step 12.1
+
+- Praneet’s note: No problems, already had git and github setup and know
+  how to use git operations
+
+### step 12.2
+
+- Praneet’s note: Repository was given to us
+
+### step 12.3
+
+- Praneet’s note: Had no problems cloning the repository onto my laptop
+
+### step 12.4
+
+- Praneet’s note: Had no problems making local changes and commiting
+
+### step 12.5
+
+- Praneet’s note: Had no problems pushing onto Github
+
+### step 12.6
+
+- Praneet’s note: The local changes and commits were synced with the
+  Github remote
